@@ -1,0 +1,433 @@
+
+-*- file info
+- data output directory : ./data
+- file prefix           : /home/n2edm/faster/FASTER_conf_files/qt2t/ACQ/data/SF1_OFF_SF2_ON_12kHz_withGCv2
+- report file           : /home/n2edm/faster/FASTER_conf_files/qt2t/ACQ/data/SF1_OFF_SF2_ON_12kHz_withGCv2.setup
+- data file             : /home/n2edm/faster/FASTER_conf_files/qt2t/ACQ/data/SF1_OFF_SF2_ON_12kHz_withGCv2_0001.fast
+
+-*- user provided info
+None
+
+-*- channel groups states
+PM : ON
+Scintillator : ON
+
+-*- channels configuration
+: QT2T_1 is part of PM
+Channel_Enabled             = TRUE
+Caras_Input                 = CARAS_BNC_1
+Input_Range                 = INPUT_RANGE_1100_MAX
+Inverter                    = TRUE
+BLC_Type                    = DYN_BLR
+BLC_Sub_Value               =  0.000
+BLC_BLR_Threshold           =  0.998
+BLC_BLR_Fc                  = BLR_20KHZ
+BLC_BLR_Gate                =  112.0
+LPF_On                      = TRUE
+Rise_Time                   = LPF_13NS
+LPF_Order                   = LPF_X1
+HPF_On                      = FALSE
+HPF_Delay                   =  2.0
+HPF_Gain                    =  1.00
+Q_Baseline_From_Sample_Num  =  1
+Q_Baseline_To_Sample_Num    =  16
+Trigger_Threshold           =  3.000
+Trigger_Valid_Gate          =  6.0
+Trigger_Low_Valid_Level     =  3.000
+Trigger_High_Valid_Level    =  999.998
+Trigger_Inhibition_ns       =  16.0
+Trigger_Single_Mode         = FALSE
+Count_Label                 =  1001
+Count_Type_Alias            =  52
+Count_Rate_Hz               = COUNT_RATE_1HZ
+Count_Enabled               = TRUE
+Meas_Label                  =  1
+Meas_Type_Alias             =  46
+Meas_Flow_Divider           = MEAS_FLOW_DIVIDER_1
+Meas_Enabled                = TRUE
+Oscillo_Input               = OSC_MEASURE
+Oscillo_Output_Range        = OSCILLO_RANGE_2V4
+Oscillo_Shift               = OSCILLO_SHIFT_MIN
+Oscillo_Without_Trig        = FALSE
+Oscillo_Decimation          = OSCILLO_DECI_1
+Oscillo_Deci_1Samp          = TRUE
+Oscillo_X_User_Caption_Used = FALSE
+Oscillo_X_ns_To_User_Unit   =  1.00000E+00
+Oscillo_X_User_Caption      = ns     
+Oscillo_Y_User_Caption_Used = FALSE
+Oscillo_Y_mV_To_User_Unit   =  1.00000E+00
+Oscillo_Y_User_Caption      = mV     
+Oscillo_Rate_Hz             = OSCILLO_RATE_1HZ
+Oscillo_Label               =  2001
+Oscillo_Enabled             = TRUE
+Oscillo_Type_Alias          =  21
+
+: QT2T_2 is part of PM
+Channel_Enabled             = TRUE
+Caras_Input                 = CARAS_BNC_2
+Input_Range                 = INPUT_RANGE_2200_MAX
+Inverter                    = TRUE
+BLC_Type                    = DYN_BLR
+BLC_Sub_Value               =  0.000
+BLC_BLR_Threshold           =  0.998
+BLC_BLR_Fc                  = BLR_20KHZ
+BLC_BLR_Gate                =  112.0
+LPF_On                      = TRUE
+Rise_Time                   = LPF_13NS
+LPF_Order                   = LPF_X1
+HPF_On                      = FALSE
+HPF_Delay                   =  2.0
+HPF_Gain                    =  1.00
+Q_Baseline_From_Sample_Num  =  1
+Q_Baseline_To_Sample_Num    =  16
+Trigger_Threshold           =  3.000
+Trigger_Valid_Gate          =  6.0
+Trigger_Low_Valid_Level     =  3.000
+Trigger_High_Valid_Level    =  999.998
+Trigger_Inhibition_ns       =  16.0
+Trigger_Single_Mode         = FALSE
+Count_Label                 =  1002
+Count_Type_Alias            =  52
+Count_Rate_Hz               = COUNT_RATE_1HZ
+Count_Enabled               = TRUE
+Meas_Label                  =  2
+Meas_Type_Alias             =  46
+Meas_Flow_Divider           = MEAS_FLOW_DIVIDER_1
+Meas_Enabled                = TRUE
+Oscillo_Input               = OSC_MEASURE
+Oscillo_Output_Range        = OSCILLO_RANGE_2V4
+Oscillo_Shift               = OSCILLO_SHIFT_MIN
+Oscillo_Without_Trig        = FALSE
+Oscillo_Decimation          = OSCILLO_DECI_1
+Oscillo_Deci_1Samp          = TRUE
+Oscillo_X_User_Caption_Used = FALSE
+Oscillo_X_ns_To_User_Unit   =  1.00000E+00
+Oscillo_X_User_Caption      = ns     
+Oscillo_Y_User_Caption_Used = FALSE
+Oscillo_Y_mV_To_User_Unit   =  1.00000E+00
+Oscillo_Y_User_Caption      = mV     
+Oscillo_Rate_Hz             = OSCILLO_RATE_1HZ
+Oscillo_Label               =  2002
+Oscillo_Enabled             = TRUE
+Oscillo_Type_Alias          =  21
+
+: QT2T_3 is part of PM
+Channel_Enabled             = TRUE
+Caras_Input                 = CARAS_BNC_1
+Input_Range                 = INPUT_RANGE_2200_MAX
+Inverter                    = TRUE
+BLC_Type                    = DYN_BLR
+BLC_Sub_Value               =  0.000
+BLC_BLR_Threshold           =  0.998
+BLC_BLR_Fc                  = BLR_20KHZ
+BLC_BLR_Gate                =  112.0
+LPF_On                      = TRUE
+Rise_Time                   = LPF_13NS
+LPF_Order                   = LPF_X1
+HPF_On                      = FALSE
+HPF_Delay                   =  2.0
+HPF_Gain                    =  1.00
+Q_Baseline_From_Sample_Num  =  1
+Q_Baseline_To_Sample_Num    =  16
+Trigger_Threshold           =  3.000
+Trigger_Valid_Gate          =  6.0
+Trigger_Low_Valid_Level     =  3.000
+Trigger_High_Valid_Level    =  999.998
+Trigger_Inhibition_ns       =  16.0
+Trigger_Single_Mode         = FALSE
+Count_Label                 =  1003
+Count_Type_Alias            =  52
+Count_Rate_Hz               = COUNT_RATE_1HZ
+Count_Enabled               = TRUE
+Meas_Label                  =  3
+Meas_Type_Alias             =  46
+Meas_Flow_Divider           = MEAS_FLOW_DIVIDER_1
+Meas_Enabled                = TRUE
+Oscillo_Input               = OSC_MEASURE
+Oscillo_Output_Range        = OSCILLO_RANGE_2V4
+Oscillo_Shift               = OSCILLO_SHIFT_MIN
+Oscillo_Without_Trig        = FALSE
+Oscillo_Decimation          = OSCILLO_DECI_1
+Oscillo_Deci_1Samp          = TRUE
+Oscillo_X_User_Caption_Used = FALSE
+Oscillo_X_ns_To_User_Unit   =  1.00000E+00
+Oscillo_X_User_Caption      = ns     
+Oscillo_Y_User_Caption_Used = FALSE
+Oscillo_Y_mV_To_User_Unit   =  1.00000E+00
+Oscillo_Y_User_Caption      = mV     
+Oscillo_Rate_Hz             = OSCILLO_RATE_1HZ
+Oscillo_Label               =  2003
+Oscillo_Enabled             = TRUE
+Oscillo_Type_Alias          =  21
+
+: QT2T_7 is part of PM
+Channel_Enabled             = TRUE
+Caras_Input                 = CARAS_BNC_2
+Input_Range                 = INPUT_RANGE_1100_MAX
+Inverter                    = TRUE
+BLC_Type                    = DYN_BLR
+BLC_Sub_Value               =  0.000
+BLC_BLR_Threshold           =  4.996
+BLC_BLR_Fc                  = BLR_20KHZ
+BLC_BLR_Gate                =  8.0
+LPF_On                      = TRUE
+Rise_Time                   = LPF_13NS
+LPF_Order                   = LPF_X1
+HPF_On                      = FALSE
+HPF_Delay                   =  2.0
+HPF_Gain                    =  1.00
+Q_Baseline_From_Sample_Num  =  1
+Q_Baseline_To_Sample_Num    =  16
+Trigger_Threshold           =  3.000
+Trigger_Valid_Gate          =  2.0
+Trigger_Low_Valid_Level     =  3.000
+Trigger_High_Valid_Level    =  2389.995
+Trigger_Inhibition_ns       =  0.0
+Trigger_Single_Mode         = FALSE
+Count_Label                 =  1007
+Count_Type_Alias            =  52
+Count_Rate_Hz               = COUNT_RATE_1HZ
+Count_Enabled               = TRUE
+Meas_Label                  =  7
+Meas_Type_Alias             =  46
+Meas_Flow_Divider           = MEAS_FLOW_DIVIDER_1
+Meas_Enabled                = TRUE
+Oscillo_Input               = OSC_MEASURE
+Oscillo_Output_Range        = OSCILLO_RANGE_1V2
+Oscillo_Shift               = OSCILLO_SHIFT_MIN
+Oscillo_Without_Trig        = FALSE
+Oscillo_Decimation          = OSCILLO_DECI_512
+Oscillo_Deci_1Samp          = TRUE
+Oscillo_X_User_Caption_Used = TRUE
+Oscillo_X_ns_To_User_Unit   =  1.00000E-06
+Oscillo_X_User_Caption      = ms     
+Oscillo_Y_User_Caption_Used = FALSE
+Oscillo_Y_mV_To_User_Unit   =  1.00000E+00
+Oscillo_Y_User_Caption      = mV     
+Oscillo_Rate_Hz             = OSCILLO_RATE_1HZ
+Oscillo_Label               =  2007
+Oscillo_Enabled             = TRUE
+Oscillo_Type_Alias          =  21
+
+: QDC4_6 is part of Scintillator
+Channel_Enabled     = TRUE
+Caras_Input         = CARAS_BNC_1
+Input_Range         = INPUT_RANGE_0_MAX
+Inverter            = TRUE
+BLC_Type            = BLC_BLR
+BLC_Sub_Value       =  0.000
+BLC_BLR_Threshold   =  100.001
+BLC_BLR_Fc          = BLR_FC_20KHZ
+BLC_BLR_Gate        =  0.0
+LPF_On              = FALSE
+LPF_Rising_Time     = LPF_13NS
+Trigger_Type                      = TRIG_CFD
+Trigger_Threshold_Mode_Threshold  =  49.998
+Trigger_Threshold_Mode_Valid_Gate = TT_VALID_2NS
+Trigger_CFD_Mode_Threshold        = -49.998
+Trigger_CFD_Mode_Valid_Gate       = TT_VALID_2NS
+Trigger_CFD_Delay                 = CFD_2NS
+Trigger_CFD_Fraction              = TRIG_CFD_FRAC4
+DSP_Nb_Q     =  1
+DSP_Q1_Begin =  0.00000000000000E+00
+DSP_Q1_End   =  1.00000000000000E+02
+DSP_Q2_Begin =  0.00000000000000E+00
+DSP_Q2_End   =  0.00000000000000E+00
+DSP_Q3_Begin =  0.00000000000000E+00
+DSP_Q3_End   =  0.00000000000000E+00
+DSP_Q4_Begin =  0.00000000000000E+00
+DSP_Q4_End   =  0.00000000000000E+00
+Sampling_Input               = SAMPLING_INPUT_QDC
+Sampling_Output_Range        = SAMPLING_RANGE_2V4
+Sampling_Shift               = SAMPLING_SHIFT_MIN
+Sampling_Decimation          = SAMPLING_DECI_512
+Sampling_Deci_1Samp          = TRUE
+Sampling_X_User_Caption_Used = TRUE
+Sampling_X_ns_To_User_Unit   =  1.00000E-06
+Sampling_X_User_Caption      = ms     
+Sampling_Y_User_Caption_Used = FALSE
+Sampling_Y_mV_To_User_Unit   =  1.00000E+00
+Sampling_Y_User_Caption      = mV     
+Sampling_Rate                = SAMPLING_RATE_10HZ
+State_Rate            = STATE_RATE_1HZ
+DSP_Flow_Divider      = DSP_FULL_RATE
+DSP_Label      =  6
+Sampling_Label =  2006
+State_Label    =  1006
+DSP_Type_Alias      =  141
+Sampling_Type_Alias =  21
+State_Type_Alias    =  50
+DSP_Enabled      = TRUE
+Sampling_Enabled = TRUE
+State_Enabled    = TRUE
+
+: QT2T_4 is part of Scintillator
+Channel_Enabled             = TRUE
+Caras_Input                 = CARAS_BNC_1
+Input_Range                 = INPUT_RANGE_2200_MAX
+Inverter                    = TRUE
+BLC_Type                    = DYN_BLR
+BLC_Sub_Value               =  0.000
+BLC_BLR_Threshold           =  0.998
+BLC_BLR_Fc                  = BLR_20KHZ
+BLC_BLR_Gate                =  112.0
+LPF_On                      = TRUE
+Rise_Time                   = LPF_13NS
+LPF_Order                   = LPF_X1
+HPF_On                      = FALSE
+HPF_Delay                   =  2.0
+HPF_Gain                    =  1.00
+Q_Baseline_From_Sample_Num  =  1
+Q_Baseline_To_Sample_Num    =  16
+Trigger_Threshold           =  3.501
+Trigger_Valid_Gate          =  8.0
+Trigger_Low_Valid_Level     =  3.501
+Trigger_High_Valid_Level    =  999.998
+Trigger_Inhibition_ns       =  0.0
+Trigger_Single_Mode         = FALSE
+Count_Label                 =  1004
+Count_Type_Alias            =  52
+Count_Rate_Hz               = COUNT_RATE_1HZ
+Count_Enabled               = TRUE
+Meas_Label                  =  4
+Meas_Type_Alias             =  46
+Meas_Flow_Divider           = MEAS_FLOW_DIVIDER_1
+Meas_Enabled                = TRUE
+Oscillo_Input               = OSC_MEASURE
+Oscillo_Output_Range        = OSCILLO_RANGE_0V15
+Oscillo_Shift               = OSCILLO_SHIFT_MIN
+Oscillo_Without_Trig        = FALSE
+Oscillo_Decimation          = OSCILLO_DECI_1
+Oscillo_Deci_1Samp          = TRUE
+Oscillo_X_User_Caption_Used = FALSE
+Oscillo_X_ns_To_User_Unit   =  1.00000E+00
+Oscillo_X_User_Caption      = ns     
+Oscillo_Y_User_Caption_Used = FALSE
+Oscillo_Y_mV_To_User_Unit   =  1.00000E+00
+Oscillo_Y_User_Caption      = mV     
+Oscillo_Rate_Hz             = OSCILLO_RATE_10HZ
+Oscillo_Label               =  2004
+Oscillo_Enabled             = TRUE
+Oscillo_Type_Alias          =  21
+
+: QT2T_5 is part of Scintillator
+Channel_Enabled             = TRUE
+Caras_Input                 = CARAS_BNC_2
+Input_Range                 = INPUT_RANGE_2200_MAX
+Inverter                    = TRUE
+BLC_Type                    = DYN_BLR
+BLC_Sub_Value               =  0.000
+BLC_BLR_Threshold           =  0.998
+BLC_BLR_Fc                  = BLR_20KHZ
+BLC_BLR_Gate                =  112.0
+LPF_On                      = TRUE
+Rise_Time                   = LPF_13NS
+LPF_Order                   = LPF_X1
+HPF_On                      = FALSE
+HPF_Delay                   =  2.0
+HPF_Gain                    =  1.00
+Q_Baseline_From_Sample_Num  =  1
+Q_Baseline_To_Sample_Num    =  16
+Trigger_Threshold           =  3.501
+Trigger_Valid_Gate          =  8.0
+Trigger_Low_Valid_Level     =  3.501
+Trigger_High_Valid_Level    =  999.998
+Trigger_Inhibition_ns       =  0.0
+Trigger_Single_Mode         = FALSE
+Count_Label                 =  1005
+Count_Type_Alias            =  52
+Count_Rate_Hz               = COUNT_RATE_1HZ
+Count_Enabled               = TRUE
+Meas_Label                  =  5
+Meas_Type_Alias             =  46
+Meas_Flow_Divider           = MEAS_FLOW_DIVIDER_1
+Meas_Enabled                = TRUE
+Oscillo_Input               = OSC_MEASURE
+Oscillo_Output_Range        = OSCILLO_RANGE_0V15
+Oscillo_Shift               = OSCILLO_SHIFT_MIN
+Oscillo_Without_Trig        = FALSE
+Oscillo_Decimation          = OSCILLO_DECI_1
+Oscillo_Deci_1Samp          = TRUE
+Oscillo_X_User_Caption_Used = FALSE
+Oscillo_X_ns_To_User_Unit   =  1.00000E+00
+Oscillo_X_User_Caption      = ns     
+Oscillo_Y_User_Caption_Used = FALSE
+Oscillo_Y_mV_To_User_Unit   =  1.00000E+00
+Oscillo_Y_User_Caption      = mV     
+Oscillo_Rate_Hz             = OSCILLO_RATE_10HZ
+Oscillo_Label               =  2005
+Oscillo_Enabled             = TRUE
+Oscillo_Type_Alias          =  21
+
+
+-*- t0 for this run
+YES : t0 was required by user
+
+- Event count  : 0
+- Start date   : 19-12-2019 11:04:59
+- Stop date    : 19-12-2019 11:08:00
+
+-*- trunk configuration and statistics
+Basic_Trunk.Group_Coinc Image
+-----------------------------
+Input  1 :
+--------
+UDP Input :
+  From IP       = 192.168.2.73
+  From Node Num = 3
+  Local port    = 20002
+Trame Input 1 :
+  Trame capacity = 30000
+  Filling max    = 0.0 %
+  Cur filling    = 0.0 %
+  Fmin           = 1.00000E-01 Hz
+  Nb_Passed      = 1357505
+  Missed count   = 0
+
+Input  2 :
+--------
+UDP Input :
+  From IP       = 192.168.2.23
+  From Node Num = 3
+  Local port    = 20001
+Trame Input 2 :
+  Trame capacity = 30000
+  Filling max    = 0.0 %
+  Cur filling    = 0.0 %
+  Fmin           = 1.00000E-01 Hz
+  Nb_Passed      = 3983959
+  Missed count   = 0
+
+Synchro : 
+----------
+
+Trigger-Merger
+--------------
+Group_Coinc_V2 :
+----------------
+Trigger_Type                =  MULTIPLICITY_TRIGGER
+Trigger_Enabled             =  TRUE
+Merger_Lossless             =  FALSE
+Trigger_Window_ns           =  50.0
+Before_Window_ns            =  50.0
+After_Window_ns             =  50.0
+Group_Label                 =  3000
+Boolean_Expression_Trigger  =  1 and 2 and 3
+Multiplicity_Trigger_Labels =  1 2 3
+Multiplicity_Trigger_Value  =  3
+Multiplicity_Trigger_Type   =  EXACTLY
+Followers                   = 
+Valid_Labels                = NO_CONSTRAINT
+
+Data Fifo Filling max = 0.1 %
+Win  Fifo Filling max = 0.0 %
+
+Storage :
+---------
+  Data capacity   = 1000000
+  Filling max     = 0.4 %
+  Cur. Filling    = 0.0 %
+  Cur. File    CF = /home/n2edm/faster/FASTER_conf_files/qt2t/ACQ/data/SF1_OFF_SF2_ON_12kHz_withGCv2_0001.fast
+  Nb_Written (CF) = 1888535
+
+

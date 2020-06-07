@@ -1,0 +1,36 @@
+////////////////////////////////////////////////////
+time_offset = 0
+////////////////////////////////////////////////////
+Frequency  histos[i]->Integral()  integral_sci_1[i]  integral_sci_2[i]  histo_norm
+NY_SF1_OFF_SF2_OFF_0kHz_30cm_withoutGCv4_0001  389821  286804  304477  0.659282
+NY_SF1_OFF_SF2_ON_12kHz_30cm_withoutGCv4_0001  234323  286070  302798  0.397921
+NY_SF1_OFF_SF2_ON_3kHz_30cm_withoutGCv4_0001  285443  282593  301469  0.488721
+NY_SF1_OFF_SF2_ON_4kHz_30cm_withoutGCv4_0001  335967  282508  300082  0.576678
+NY_SF1_OFF_SF2_ON_5kHz_30cm_withoutGCv4_0001  285680  285863  304539  0.483874
+NY_SF1_OFF_SF2_ON_6kHz_30cm_withoutGCv4_0001  149675  283160  301097  0.25618
+NY_SF1_OFF_SF2_ON_7kHz_30cm_withoutGCv4_0001  154065  282536  300113  0.264422
+NY_SF1_OFF_SF2_ON_9kHz_30cm_withoutGCv4_0001  191750  287876  305886  0.322941
+////////////////////////////////////////////////////
+time_offset = 10
+////////////////////////////////////////////////////
+Frequency  histos[i]->Integral()  integral_sci_1[i]  integral_sci_2[i]  histo_norm
+NY_SF1_OFF_SF2_OFF_0kHz_30cm_withoutGCv4_0001  356550  240396  251040  0.725527
+NY_SF1_OFF_SF2_ON_12kHz_30cm_withoutGCv4_0001  214653  235814  245541  0.445935
+NY_SF1_OFF_SF2_ON_3kHz_30cm_withoutGCv4_0001  259852  232651  244215  0.544917
+NY_SF1_OFF_SF2_ON_4kHz_30cm_withoutGCv4_0001  310275  239469  250738  0.632947
+NY_SF1_OFF_SF2_ON_5kHz_30cm_withoutGCv4_0001  258331  232690  243400  0.54261
+NY_SF1_OFF_SF2_ON_6kHz_30cm_withoutGCv4_0001  137965  234944  245886  0.286931
+NY_SF1_OFF_SF2_ON_7kHz_30cm_withoutGCv4_0001  140524  231696  241437  0.297008
+NY_SF1_OFF_SF2_ON_9kHz_30cm_withoutGCv4_0001  177339  241710  252313  0.358969
+////////////////////////////////////////////////////
+time_offset = 20
+////////////////////////////////////////////////////
+Frequency  histos[i]->Integral()  integral_sci_1[i]  integral_sci_2[i]  histo_norm
+NY_SF1_OFF_SF2_OFF_0kHz_30cm_withoutGCv4_0001  249654  157547  164365  0.775535
+NY_SF1_OFF_SF2_ON_12kHz_30cm_withoutGCv4_0001  152051  155515  162076  0.478763
+NY_SF1_OFF_SF2_ON_3kHz_30cm_withoutGCv4_0001  183046  154102  160973  0.580959
+NY_SF1_OFF_SF2_ON_4kHz_30cm_withoutGCv4_0001  218243  156386  163506  0.68224
+NY_SF1_OFF_SF2_ON_5kHz_30cm_withoutGCv4_0001  182029  153812  161527  0.57725
+NY_SF1_OFF_SF2_ON_6kHz_30cm_withoutGCv4_0001  98606  155051  162267  0.310748
+NY_SF1_OFF_SF2_ON_7kHz_30cm_withoutGCv4_0001  100322  153198  159925  0.320392
+NY_SF1_OFF_SF2_ON_9kHz_30cm_withoutGCv4_0001  126370  158988  166066  0.388766

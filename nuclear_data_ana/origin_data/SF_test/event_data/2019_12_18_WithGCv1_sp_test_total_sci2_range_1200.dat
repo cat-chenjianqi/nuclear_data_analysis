@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////
+time_offset = 0
+////////////////////////////////////////////////////
+Frequency  histos[i]->Integral()  integral_sci_1[i]  integral_sci_2[i]  histo_norm
+SF1_OFF_SF2_OFF_withGC_0001  548964  432700  460649  0.614502
+SF1_ON_15kHz_SF2_OFF_withGC_0001  50951  438442  465365  0.0563737
+////////////////////////////////////////////////////
+time_offset = 10
+////////////////////////////////////////////////////
+Frequency  histos[i]->Integral()  integral_sci_1[i]  integral_sci_2[i]  histo_norm
+SF1_OFF_SF2_OFF_withGC_0001  507928  371454  390993  0.666181
+SF1_ON_15kHz_SF2_OFF_withGC_0001  46378  368951  386618  0.0613816
+////////////////////////////////////////////////////
+time_offset = 20
+////////////////////////////////////////////////////
+Frequency  histos[i]->Integral()  integral_sci_1[i]  integral_sci_2[i]  histo_norm
+SF1_OFF_SF2_OFF_withGC_0001  356119  242852  255617  0.714426
+SF1_ON_15kHz_SF2_OFF_withGC_0001  33495  244466  256373  0.0668777

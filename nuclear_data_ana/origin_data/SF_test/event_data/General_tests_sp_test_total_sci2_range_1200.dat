@@ -1,0 +1,39 @@
+////////////////////////////////////////////////////
+time_offset = 0
+////////////////////////////////////////////////////
+Frequency  histos[i]->Integral()  integral_sci_1[i]  integral_sci_2[i]  histo_norm
+NY_SF1_OFF_SF2_OFF_withGCv3_0001  424550  317337  336114  0.649704
+NY_SF1_OFF_SF2_OFF_withGCv4_0001  414218  313054  332606  0.641542
+NY_SF1_OFF_SF2_OFF_withGCv4_bis_0001  402460  301823  320331  0.646882
+NY_SF1_OFF_SF2_OFF_withGCv4_ter_0001  390943  293375  311582  0.646232
+NY_SF1_OFF_SF2_OFF_withoutGCv3_0001  422447  314298  333345  0.652284
+NY_SF1_OFF_SF2_OFF_withoutGCv4_0001  402153  297232  315415  0.656418
+NY_SF1_OFF_SF2_OFF_withoutGCv4_quatro_0001  394288  296274  314823  0.645213
+NY_SF1_OFF_SF2_OFF_withRevGCv4_0001  395344  291614  308305  0.658995
+NY_background_CLOSEDVALVE_withGCv4_0001  86922  79843.7  67535.9  0.589783
+////////////////////////////////////////////////////
+time_offset = 10
+////////////////////////////////////////////////////
+Frequency  histos[i]->Integral()  integral_sci_1[i]  integral_sci_2[i]  histo_norm
+NY_SF1_OFF_SF2_OFF_withGCv3_0001  384357  262065  273056  0.718262
+NY_SF1_OFF_SF2_OFF_withGCv4_0001  371502  253504  265097  0.716354
+NY_SF1_OFF_SF2_OFF_withGCv4_bis_0001  369595  254697  266222  0.709506
+NY_SF1_OFF_SF2_OFF_withGCv4_ter_0001  356236  244024  255207  0.713568
+NY_SF1_OFF_SF2_OFF_withoutGCv3_0001  385281  262075  273661  0.719162
+NY_SF1_OFF_SF2_OFF_withoutGCv4_0001  369888  251015  262301  0.720585
+NY_SF1_OFF_SF2_OFF_withoutGCv4_quatro_0001  362929  251412  262847  0.705733
+NY_SF1_OFF_SF2_OFF_withRevGCv4_0001  363793  246630  256556  0.722979
+NY_background_CLOSEDVALVE_withGCv4_0001  86263  79136.4  66913.1  0.590642
+////////////////////////////////////////////////////
+time_offset = 20
+////////////////////////////////////////////////////
+Frequency  histos[i]->Integral()  integral_sci_1[i]  integral_sci_2[i]  histo_norm
+NY_SF1_OFF_SF2_OFF_withGCv3_0001  268130  172876  180302  0.759193
+NY_SF1_OFF_SF2_OFF_withGCv4_0001  259235  167891  175671  0.754552
+NY_SF1_OFF_SF2_OFF_withGCv4_bis_0001  260007  167536  175380  0.758223
+NY_SF1_OFF_SF2_OFF_withGCv4_ter_0001  249260  160763  168050  0.758061
+NY_SF1_OFF_SF2_OFF_withoutGCv3_0001  269485  172490  180054  0.764401
+NY_SF1_OFF_SF2_OFF_withoutGCv4_0001  259515  164331  171718  0.772253
+NY_SF1_OFF_SF2_OFF_withoutGCv4_quatro_0001  254359  164898  171676  0.755729
+NY_SF1_OFF_SF2_OFF_withRevGCv4_0001  255343  161797  168202  0.77377
+NY_background_CLOSEDVALVE_withGCv4_0001  86218  79114.3  66897.1  0.590488

@@ -1,0 +1,18 @@
+1. drawResultPlot1.py: plot SF1_ON_SF2_OFF
+
+2. drawResultPlot1_b.py: use to plot SF1_OFF_SF2_ON on different guiding coil version
+select * from [{}] where id = 5 or id = 9 or id = 13 or id = 34 or id = 116
+
+3. calc_sf_eff.py: temporary calculation the sf efficiency 
+
+4. calc_sf_eff_b.py: calculate the sf efficiency in consider of number of UCN. 
+
+5. drawResultPlot2.py plot SF1_OFF_SF2_ON with guiding coil and without guiding coil
+
+6. drawResultPlot2_b.py plot SF1_OFF_SF2_ON with guiding coil or without guiding coil
+
+7. drawResultPlot3.py plot SF1_OFF_SF2_ON, here I use a loop to circulate it.
+
+8. drawResultPlot4.py plot bar graph in one condition
+
+9. drawResultPlot6.py plot SF efficiency at different state.
