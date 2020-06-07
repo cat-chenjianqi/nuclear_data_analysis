@@ -1,0 +1,14 @@
+Dear friends,
+
+This is a simply data process program that is used to analysis the experiment of neutron spin flipper efficiency.
+But I think the basic idea behind it can be used to process other nuclear experiment data.Even though here I didn't
+add uncertainty analysis inside this program.
+
+You can modify the whole environment path variables in read.py and wirte.py under directory of process/global_env.
+I also put the definition of all tables (all_tables) under this directory. Feel free to change it as your necessary problem.
+
+In docs, you can find a pdf file named as "block chart of processing program" that is used to instruct you how to use this program.
+Almost all the modules should be used to run this program has been clearly marked. Hope it will help you. In addition, I also put
+one ppt file named as "My personal data analysis method" to describe the background and procedure to process data.
+
+Jianqi Chen
